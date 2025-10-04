@@ -8,4 +8,4 @@ Android application that lists all sensors available on the device and displays 
 Android OS 6.0 and above (API level 23+)
 
 ## **Download**
-You can download the latest version of **MakeSense** from the [Releases Page]()
+You can download the latest version of **MakeSense** from the [Releases Page](https://github.com/theKevatron/MakeSense/releases/tag/v1.0.0)
